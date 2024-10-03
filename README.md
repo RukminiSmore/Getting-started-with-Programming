@@ -10,8 +10,8 @@ Welcome to the **Coding Basic Problems Set** repository! This repository contain
 2. [Prerequisites](#prerequisites)
 3. [Problem Categories](#problem-categories)
 4. [How to Contribute](#how-to-contribute)
-5. [How to Use This Repository](#how-to-use-this-repository)
-6. [Contact](#contact)
+
+
 
 ## Introduction
 
